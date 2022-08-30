@@ -1,0 +1,15 @@
+{
+  "disable-packages": {
+    "/Users/raopinwu/": {
+      "CocosCreator/extensions/im-plugin": null
+    },
+    "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/test": {
+      "name": "test",
+      "time": 1661675270055
+    },
+    "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/test2": {
+      "name": "test2",
+      "time": 1661738624058
+    }
+  }
+}

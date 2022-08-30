@@ -1,0 +1,155 @@
+{
+  "2fd988b8-c6db-4e34-b429-1d6d6fa396ba": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "e8dcc386-111b-4fdc-ab5d-393e8738af85": {
+    "url": "db://assets/scenes/scene.scene",
+    "value": {
+      "depends": [
+        "e8dcc386-111b-4fdc-ab5d-393e8738af85",
+        "e8dcc386-111b-4fdc-ab5d-393e8738af85"
+      ]
+    }
+  },
+  "64f7b564-2c24-48ae-8bd7-c65048d4278e": {
+    "url": "db://assets/texures",
+    "value": {}
+  },
+  "19f1382b-b1b5-4ee0-bd78-a184e376d0f4": {
+    "url": "db://assets/texures/test2.jpeg",
+    "value": {
+      "depends": []
+    }
+  },
+  "19f1382b-b1b5-4ee0-bd78-a184e376d0f4@6c48a": {
+    "url": "db://assets/texures/test2.jpeg@6c48a",
+    "value": {
+      "depends": [
+        "19f1382b-b1b5-4ee0-bd78-a184e376d0f4"
+      ]
+    }
+  },
+  "19f1382b-b1b5-4ee0-bd78-a184e376d0f4@f9941": {
+    "url": "db://assets/texures/test2.jpeg@f9941",
+    "value": {
+      "depends": [
+        "19f1382b-b1b5-4ee0-bd78-a184e376d0f4@6c48a"
+      ]
+    }
+  },
+  "eb40289c-a503-4ce8-918b-82608cb166c1": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "8ccb40d7-ff5a-43e0-8a57-8197c656f61e": {
+    "url": "db://assets/scripts/未命名文件夹",
+    "value": {}
+  },
+  "0f8fad43-5bf7-4228-b061-432b07ec6a95": {
+    "url": "db://assets/scripts/未命名文件夹的副本",
+    "value": {}
+  },
+  "b87fb8cb-fb8b-47f2-8f38-008fe2d40546": {
+    "url": "db://assets/scripts/Main.ts",
+    "value": {}
+  },
+  "c8835bf8-0e59-4a35-93d5-497de69462b6": {
+    "url": "db://assets/texures/test3.jpeg",
+    "value": {
+      "depends": []
+    }
+  },
+  "c8835bf8-0e59-4a35-93d5-497de69462b6@6c48a": {
+    "url": "db://assets/texures/test3.jpeg@6c48a",
+    "value": {
+      "depends": [
+        "c8835bf8-0e59-4a35-93d5-497de69462b6"
+      ]
+    }
+  },
+  "c8835bf8-0e59-4a35-93d5-497de69462b6@f9941": {
+    "url": "db://assets/texures/test3.jpeg@f9941",
+    "value": {
+      "depends": [
+        "c8835bf8-0e59-4a35-93d5-497de69462b6@6c48a"
+      ]
+    }
+  },
+  "a272fcd7-7c1a-46bf-ba09-cf762744c86a": {
+    "url": "db://assets/prefabs",
+    "value": {}
+  },
+  "685947bb-1025-441c-8360-069c9f7a0638": {
+    "url": "db://assets/prefabs/Canvas.prefab",
+    "value": {
+      "depends": [
+        "c8835bf8-0e59-4a35-93d5-497de69462b6@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ]
+    }
+  },
+  "f8ef2006-6bef-4489-a9b5-9de9be81c518": {
+    "url": "db://assets/Script",
+    "value": {}
+  },
+  "a98a2629-9e51-42a0-96e7-b4b78f01a2cf": {
+    "url": "db://assets/Script/AutoScripts",
+    "value": {}
+  },
+  "dee9f210-6422-4a9f-8542-03fc6e430ed1": {
+    "url": "db://assets/Script/AutoScripts/Canvas.ts",
+    "value": {}
+  },
+  "8f7643c5-aaa5-4954-9c36-0d047063953b": {
+    "url": "db://assets/Script/AutoScripts/Button@leftUp.ts",
+    "value": {}
+  },
+  "ff4b8d6a-31e4-455c-892d-5c5f5b3e075b": {
+    "url": "db://assets/Script/AutoScripts/Canvas.ts",
+    "value": {}
+  },
+  "bb8bde39-9738-49f6-a2f2-636167f6ed92": {
+    "url": "db://assets/Script/AutoScripts",
+    "value": {}
+  },
+  "cfe76efb-37d5-4b75-90ad-daa78d427ea7": {
+    "url": "db://assets/Script/AutoScripts/Canvas.ts",
+    "value": {}
+  },
+  "2788418c-58d4-4f28-91b4-cdd688edf62e": {
+    "url": "db://assets/Script/AutoScripts",
+    "value": {}
+  },
+  "d4634a24-cf3f-49aa-886d-64d21059efce": {
+    "url": "db://assets/Script/AutoScripts/Button@Button1.ts",
+    "value": {}
+  },
+  "3d1c9c8b-ce0b-49e6-883d-bcd9f97fa251": {
+    "url": "db://assets/Script/AutoScripts",
+    "value": {}
+  },
+  "39b92839-b6e3-4b9e-83f6-7bf5b064e954": {
+    "url": "db://assets/Script/AutoScripts/Canvas.ts",
+    "value": {}
+  }
+}

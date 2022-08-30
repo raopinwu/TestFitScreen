@@ -1,0 +1,98 @@
+{
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scenes.meta": {
+    "time": 1661570317720.167
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scenes/scene.scene.meta": {
+    "time": 1661570317725.5293
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scenes": {
+    "time": 1661570317718.9055,
+    "uuid": "2fd988b8-c6db-4e34-b429-1d6d6fa396ba",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scenes/scene.scene": {
+    "time": 1661788154803.2217,
+    "uuid": "e8dcc386-111b-4fdc-ab5d-393e8738af85",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/texures.meta": {
+    "time": 1661570736531.5796
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/texures": {
+    "time": 1661613742379.28,
+    "uuid": "64f7b564-2c24-48ae-8bd7-c65048d4278e",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/texures/test2.jpeg.meta": {
+    "time": 1661570736548.6924
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/texures/test2.jpeg": {
+    "time": 1661569852978.1548,
+    "uuid": "19f1382b-b1b5-4ee0-bd78-a184e376d0f4",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scripts.meta": {
+    "time": 1661570854412.6733
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scripts": {
+    "time": 1661571839886.5972,
+    "uuid": "eb40289c-a503-4ce8-918b-82608cb166c1",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scripts/Main.ts.meta": {
+    "time": 1661571798239.6912
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/scripts/Main.ts": {
+    "time": 1661658221270.8765,
+    "uuid": "b87fb8cb-fb8b-47f2-8f38-008fe2d40546",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/texures/test3.jpeg.meta": {
+    "time": 1661613742413.3125
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/texures/test3.jpeg": {
+    "time": 1661613656495.5376,
+    "uuid": "c8835bf8-0e59-4a35-93d5-497de69462b6",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/prefabs.meta": {
+    "time": 1661758520812.7537
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/prefabs": {
+    "time": 1661758530881.7068,
+    "uuid": "a272fcd7-7c1a-46bf-ba09-cf762744c86a",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/prefabs/Canvas.prefab.meta": {
+    "time": 1661758530887.7578
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/prefabs/Canvas.prefab": {
+    "time": 1661788149371.736,
+    "uuid": "685947bb-1025-441c-8360-069c9f7a0638",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/Script.meta": {
+    "time": 1661758566891.7593
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/Script": {
+    "time": 1661788126735.1506,
+    "uuid": "f8ef2006-6bef-4489-a9b5-9de9be81c518",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/Script/AutoScripts.meta": {
+    "time": 1661788126736.4287
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/Script/AutoScripts/Canvas.ts.meta": {
+    "time": 1661788126737.5354
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/Script/AutoScripts": {
+    "time": 1661788126735.6252,
+    "uuid": "3d1c9c8b-ce0b-49e6-883d-bcd9f97fa251",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/assets/Script/AutoScripts/Canvas.ts": {
+    "time": 1661788134810.557,
+    "uuid": "39b92839-b6e3-4b9e-83f6-7bf5b064e954",
+    "missing": false
+  }
+}

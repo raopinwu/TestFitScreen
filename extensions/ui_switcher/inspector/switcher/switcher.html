@@ -1,0 +1,39 @@
+<div id="view" class="scroll">
+    <div v-if="isRouterAlive">
+        <ui-section header="状态列表" expand>
+            <div v-for="(state,i) in states" :value="state" :index="i" style="margin-top: 10px;">
+                <div class="layout horizontal $(align-items)">
+                    <ui-checkbox checked disabled v-show="curState==i"></ui-checkbox>
+                    <ui-checkbox v-show="curState!=i" @change="onChooseState(i)"></ui-checkbox>
+
+                    <ui-input v-bind:value=state.name v-on:blur="onStateNameChange(i,$event)"
+                        style="width: 200px;height: auto;">
+                    </ui-input>
+                    <ui-button v-on:confirm="onRemoveStateBtnClick(i)" class="red">
+                        删除
+                    </ui-button>
+                    <ui-button v-on:confirm="onStateSaveBtnClick(i)" class="yellow">
+                        保存
+                    </ui-button>
+                </div>
+            </div>
+            <ui-button v-on:confirm="onCreateStateBtnClick" style="margin-top: 10px;">增加</ui-button>
+        </ui-section>
+
+        <ui-section header="修改列表" expand>
+            <div v-for="(target,i) in targetNodes" :value="target" :index="i" class="layout horizontal $(align-items)"
+                style="margin-top: 10px;">
+                <ui-node v-bind:value=target.uuid @change="onChangeTargetBtnClick($event,i)"
+                    style="height: auto; width: 222px;">
+                </ui-node>
+                <ui-button v-on:confirm="onRemoveTargetBtnClick(i)" class="red">
+                    删除
+                </ui-button>
+            </div>
+            <ui-button v-on:confirm="onCreateTargetBtnClick" style="margin-top: 10px;">增加</i>
+            </ui-button>
+        </ui-section>
+
+        <!-- <ui-button v-on:confirm="debugBtnClick">测试打印</ui-button> -->
+    </div>
+</div>

@@ -1,0 +1,69 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "sourceMaps": true
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1661614525680": {
+        "type": "build",
+        "id": "1661614525680",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2022-8-27 23:36 Build success in 87162 ms!",
+        "options": {
+          "name": "FitScreen",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "replaceSplashScreen": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "e8dcc386-111b-4fdc-ab5d-393e8738af85",
+          "outputName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/scene.scene",
+              "uuid": "e8dcc386-111b-4fdc-ab5d-393e8738af85",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "__version__": "1.0.1"
+            },
+            "cocos-service": {
+              "configID": "5bff89",
+              "services": []
+            }
+          },
+          "__version__": "1.3.3",
+          "web-mobile": []
+        },
+        "time": "2022-8-27 23:35",
+        "dirty": false
+      }
+    }
+  }
+}

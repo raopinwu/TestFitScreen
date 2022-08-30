@@ -1,0 +1,19 @@
+{
+  "name": "ui_switcher",
+  "version": "1.0.0",
+  "package_version": 2,
+  "description": "UI状态切换",
+  "author": "Jaylin",
+  "main": "./main.js",
+  "main-menu": {},
+  "editor": ">=3.3.0",
+  "contributions": {
+    "inspector": {
+      "section": {
+        "node": {
+          "UISwitcher": "./inspector/switcher/switcher.js"
+        }
+      }
+    }
+  }
+}

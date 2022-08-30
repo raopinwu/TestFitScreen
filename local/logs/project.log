@@ -1,0 +1,395 @@
+2022-08-29T23:52:52.453Z - log: [Package] menu@1.0.0 enable
+2022-08-29T23:52:52.455Z - log: [Package] profile@1.0.0 enable
+2022-08-29T23:52:52.464Z - log: [Package] project@1.0.2 enable
+2022-08-29T23:52:52.468Z - log: [Package] messages@1.0.0 enable
+2022-08-29T23:52:52.471Z - log: [Package] program@1.0.0 enable
+2022-08-29T23:52:52.478Z - log: [Package] tester@1.0.0 enable
+2022-08-29T23:52:52.482Z - log: [Package] preferences@1.0.0 enable
+2022-08-29T23:52:56.623Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-29T23:52:56.633Z - log: [Package] engine@1.0.6 enable
+2022-08-29T23:52:57.642Z - log: [Package] programming@1.0.0 enable
+2022-08-29T23:52:57.754Z - warn: 
+2022-08-29T23:52:57.788Z - warn: 
+2022-08-29T23:52:57.981Z - log: [Package] device@1.0.1 enable
+2022-08-29T23:52:58.011Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-29T23:52:58.035Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-29T23:52:58.105Z - log: [Package] asset-db@1.0.0 enable
+2022-08-29T23:52:58.105Z - warn: 
+2022-08-29T23:52:58.145Z - log: [Package] scene@1.0.0 enable
+2022-08-29T23:52:58.318Z - log: [Package] server@1.0.0 enable
+2022-08-29T23:52:58.349Z - log: [Package] utils@1.0.0 enable
+2022-08-29T23:53:02.551Z - warn: 
+2022-08-29T23:53:02.551Z - warn: 
+2022-08-29T23:53:02.552Z - warn: 
+2022-08-29T23:53:02.562Z - warn: 
+2022-08-29T23:53:02.562Z - warn: 
+2022-08-29T23:53:02.562Z - warn: 
+2022-08-29T23:53:02.572Z - warn: 
+2022-08-29T23:53:02.572Z - warn: 
+2022-08-29T23:53:02.573Z - warn: 
+2022-08-29T23:53:04.523Z - warn: 
+2022-08-29T23:53:04.593Z - log: [Package] preview@1.0.1 enable
+2022-08-29T23:53:04.626Z - log: [Package] animator@1.0.0 enable
+2022-08-29T23:53:04.675Z - log: pluginManager init: 0.144ms
+2022-08-29T23:53:04.976Z - warn: 
+2022-08-29T23:53:04.976Z - warn: 
+2022-08-29T23:53:04.977Z - warn: 
+2022-08-29T23:53:05.731Z - log: [Package] builder@1.3.3 enable
+2022-08-29T23:53:05.766Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-29T23:53:05.796Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-29T23:53:05.824Z - log: [Package] about@1.0.0 enable
+2022-08-29T23:53:05.854Z - log: [Package] assets@1.0.0 enable
+2022-08-29T23:53:05.882Z - log: [Package] console@1.0.0 enable
+2022-08-29T23:53:06.128Z - log: [Package] extension@3.0.16 enable
+2022-08-29T23:53:06.158Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-29T23:53:06.190Z - log: [Package] inspector@1.0.0 enable
+2022-08-29T23:53:06.221Z - log: [Package] lightmap@1.0.4 enable
+2022-08-29T23:53:06.682Z - log: [Package] localization-editor@1.0.0 enable
+2022-08-29T23:53:06.694Z - log: [Build-plugin] register pkg localization-editor: 7.563ms
+2022-08-29T23:53:06.721Z - log: [Package] node-library@1.0.1 enable
+2022-08-29T23:53:06.748Z - log: [Package] package-asset@1.0.0 enable
+2022-08-29T23:53:06.776Z - log: [Package] process@1.0.0 enable
+2022-08-29T23:53:06.803Z - log: [Package] reference-image@1.0.0 enable
+2022-08-29T23:53:06.828Z - log: [Package] alipay-mini-game@1.0.1 enable
+2022-08-29T23:53:06.830Z - log: [Build-plugin] register pkg alipay-mini-game: 1.515ms
+2022-08-29T23:53:06.854Z - log: [Package] android@1.0.1 enable
+2022-08-29T23:53:06.862Z - log: [Build-plugin] register pkg android: 7.258ms
+2022-08-29T23:53:06.884Z - log: [Package] baidu-mini-game@1.0.1 enable
+2022-08-29T23:53:06.888Z - log: [Build-plugin] register pkg baidu-mini-game: 4.049ms
+2022-08-29T23:53:06.966Z - log: [Package] bytedance-mini-game@1.0.2 enable
+2022-08-29T23:53:06.969Z - log: [Build-plugin] register pkg bytedance-mini-game: 2.832ms
+2022-08-29T23:53:06.994Z - log: [Package] certificate@1.0.0 enable
+2022-08-29T23:53:07.021Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-29T23:53:07.048Z - log: [Package] cocos-play@1.0.1 enable
+2022-08-29T23:53:07.053Z - log: [Build-plugin] register pkg cocos-play: 5.267ms
+2022-08-29T23:53:07.077Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-29T23:53:07.081Z - log: [Build-plugin] register pkg huawei-agc: 3.61ms
+2022-08-29T23:53:07.104Z - log: [Package] huawei-quick-game@1.0.1 enable
+2022-08-29T23:53:07.109Z - log: [Build-plugin] register pkg huawei-quick-game: 4.1ms
+2022-08-29T23:53:07.189Z - log: [Package] ios@1.0.0 enable
+2022-08-29T23:53:07.194Z - log: [Build-plugin] register pkg ios: 4.376ms
+2022-08-29T23:53:07.218Z - log: [Package] linux@1.0.0 enable
+2022-08-29T23:53:07.220Z - log: [Build-plugin] register pkg linux: 1.074ms
+2022-08-29T23:53:07.246Z - log: [Package] mac@1.0.0 enable
+2022-08-29T23:53:07.252Z - log: [Build-plugin] register pkg mac: 5.817ms
+2022-08-29T23:53:07.386Z - log: [Package] native@1.0.2 enable
+2022-08-29T23:53:07.392Z - log: [Build-plugin] register pkg native: 5.462ms
+2022-08-29T23:53:07.417Z - log: [Package] ohos@1.0.0 enable
+2022-08-29T23:53:07.421Z - log: [Build-plugin] register pkg ohos: 3.534ms
+2022-08-29T23:53:07.448Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-29T23:53:07.449Z - log: [Build-plugin] register pkg open-harmonyos: 1.205ms
+2022-08-29T23:53:07.474Z - log: [Package] oppo-mini-game@1.0.1 enable
+2022-08-29T23:53:07.478Z - log: [Build-plugin] register pkg oppo-mini-game: 4.299ms
+2022-08-29T23:53:07.506Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-29T23:53:07.532Z - log: [Package] vivo-mini-game@1.0.1 enable
+2022-08-29T23:53:07.536Z - log: [Build-plugin] register pkg vivo-mini-game: 4.095ms
+2022-08-29T23:53:07.581Z - log: [Package] web-desktop@1.0.1 enable
+2022-08-29T23:53:07.585Z - log: [Build-plugin] register pkg web-desktop: 3.492ms
+2022-08-29T23:53:07.617Z - log: [Package] web-mobile@1.0.1 enable
+2022-08-29T23:53:07.621Z - log: [Build-plugin] register pkg web-mobile: 3.602ms
+2022-08-29T23:53:07.651Z - log: [Package] wechatgame@1.0.2 enable
+2022-08-29T23:53:07.656Z - log: [Build-plugin] register pkg wechatgame: 4.139ms
+2022-08-29T23:53:07.678Z - log: [Package] windows@1.0.1 enable
+2022-08-29T23:53:07.682Z - log: [Build-plugin] register pkg windows: 3.453ms
+2022-08-29T23:53:07.705Z - log: [Package] xiaomi-quick-game@1.0.1 enable
+2022-08-29T23:53:07.710Z - log: [Build-plugin] register pkg xiaomi-quick-game: 4.099ms
+2022-08-29T23:53:08.036Z - log: [Package] cocos-service@3.0.4 enable
+2022-08-29T23:53:08.040Z - log: [Build-plugin] register pkg cocos-service: 2.524ms
+2022-08-29T23:53:08.069Z - log: [Package] importer@1.0.0 enable
+2022-08-29T23:53:08.371Z - log: [Im-plugin] Check im-plugin version.
+2022-08-29T23:53:08.377Z - log: [Package] im-plugin@3.0.9 enable
+2022-08-29T23:53:08.595Z - log: [Package] cocos_inspector@1.2.1 enable
+2022-08-29T23:53:08.620Z - log: [Package] magic-book@1.0.0 enable
+2022-08-29T23:53:08.642Z - log: [Package] ui_switcher@1.0.0 enable
+2022-08-29T23:53:08.671Z - log: [Package] uibinder@1.0.0 enable
+2022-08-29T23:53:09.222Z - log: [Im-plugin] Im-plugin online version is 3.0.9.
+2022-08-29T23:53:09.222Z - log: [Im-plugin] Im-plugin local version is 3.0.9.
+2022-08-29T23:53:09.222Z - log: [Im-plugin] Im-plugin need not update.
+2022-08-29T23:53:12.081Z - log: [Scene] Please specifiy a default value for "cc.EditorExtendable.__editorExtras__" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.106Z - log: [Scene] Please specifiy a default value for "CCPropertyOverrideInfo.value" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.106Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.asset" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.107Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.nestedPrefabInstanceRoots" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.110Z - log: [Scene] The 'default' attribute of 'ColorDesc.beginAccesses' must be an array
+2022-08-29T23:53:12.111Z - log: [Scene] The 'default' attribute of 'ColorDesc.endAccesses' must be an array
+2022-08-29T23:53:12.126Z - log: [Scene] Please specifiy a default value for "cc.animation.TrackBinding.proxy" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.126Z - log: [Scene] Please specifiy a default value for "cc.animation.Channel._curve" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.126Z - log: [Scene] Please specifiy a default value for "cc.animation.SingleChannelTrack._channel" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.127Z - log: [Scene] Please specifiy a default value for "cc.animation.VectorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.128Z - log: [Scene] Please specifiy a default value for "cc.animation.ColorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.128Z - log: [Scene] Please specifiy a default value for "cc.animation.SizeTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.128Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.from" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.129Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.to" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.129Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._entryState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.129Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._exitState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.129Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._anyState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.130Z - log: [Scene] Please specifiy a default value for "cc.animation.Layer._stateMachine" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.130Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._isQuantized" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.times" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.originalPrecision" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.min" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.extent" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.131Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-08-29T23:53:12.169Z - log: [Scene] 'cc.ParticleSystem2D.color' hides inherited property 'cc.UIRenderer.color'. To make the current property override that implementation, add the `override: true` attribute please.
+2022-08-29T23:53:12.230Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._receiveShadow", which its default value is type of Boolean.
+2022-08-29T23:53:12.230Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._useNormalmap", which its default value is type of Boolean.
+2022-08-29T23:53:12.230Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._usePBR", which its default value is type of Boolean.
+2022-08-29T23:53:12.230Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._lodEnable", which its default value is type of Boolean.
+2022-08-29T23:53:12.366Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2022-08-29T23:53:12.378Z - info: [Scene] [PHYSICS]: using builtin.
+2022-08-29T23:53:12.551Z - log: [Scene] Cocos Creator v3.6.0
+2022-08-29T23:53:12.551Z - info: [Scene] Forward render pipeline initialized.
+2022-08-29T23:53:12.973Z - warn: [Scene] Found possible circular reference in "pack:///chunks/d8/d8cdf14a5d2597b0c57122b05534284eb07b192e.js", happened when use "mb_base" imported from "../../common/base/mb_base"  Error: 
+    at Object.execute (file:///Users/raopinwu/workspace/ccs/fitSreen/FitScreen/temp/programming/packer-driver/targets/editor/chunks/d8/file:/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio.ts:28:16)
+    at doExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12Error: [Scene] Found possible circular reference in "pack:///chunks/d8/d8cdf14a5d2597b0c57122b05534284eb07b192e.js", happened when use "mb_base" imported from "../../common/base/mb_base"  Error: 
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/raopinwu/workspace/ccs/fitSreen/FitScreen/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfmb_base (file:///Users/raopinwu/workspace/ccs/fitSreen/FitScreen/temp/programming/packer-driver/targets/editor/chunks/d8/d8cdf14a5d2597b0c57122b05534284eb07b192e.js:9:17)
+    at Object.execute (file:///Users/raopinwu/workspace/ccs/fitSreen/FitScreen/temp/programming/packer-driver/targets/editor/chunks/d8/file:/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio.ts:28:16)
+    at doExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+2022-08-29T23:53:12.975Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} TypeError: Class extends value undefined is not a constructor or null
+    at Object.execute (file:///Users/raopinwu/workspace/ccs/fitSreen/FitScreen/temp/programming/packer-driver/targets/editor/chunks/d8/file:/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio.ts:28:16)
+    at doExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} TypeError: Class extends value undefined is not a constructor or null
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5825)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3509)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:312:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:73:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at doExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:538:7)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+2022-08-29T23:57:57.537Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2022-08-29T23:57:57.537Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2022-08-29T23:57:57.639Z - warn: 为更好地打开脚本，请在 偏好设置 -> 外部程序 -> 默认脚本编辑器 里配置打开脚本的应用程序
+2022-08-30T00:00:22.938Z - warn: Metrics: no valid info

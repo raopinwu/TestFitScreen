@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"让cocos开发更简单的开发框架"};

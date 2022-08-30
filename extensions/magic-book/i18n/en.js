@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"Let cocos develop a simpler development framework"};

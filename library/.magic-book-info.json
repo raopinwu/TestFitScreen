@@ -1,0 +1,138 @@
+{
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src": {
+    "time": 1660483638000,
+    "uuid": "99ed2b81-fd55-487a-b1ac-45f94b429b56",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/base": {
+    "time": 1660483638000,
+    "uuid": "d87be366-ee81-4761-a948-2ef9951a6e87",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common": {
+    "time": 1660483638000,
+    "uuid": "ebdf1c04-bf32-4b66-a74b-d38515b8e764",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/config": {
+    "time": 1660483638000,
+    "uuid": "99a20897-1c45-490b-a902-8cd6c2043bff",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system": {
+    "time": 1660483638000,
+    "uuid": "aa97f8f6-a1d0-442b-bbc8-23dd40ac7b1d",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/base": {
+    "time": 1660483638000,
+    "uuid": "d59879a4-de30-44ff-9a0f-6089534d39b8",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/decorator": {
+    "time": 1660483638000,
+    "uuid": "0bd189f3-1328-4a4d-ae9a-37239876751f",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/log": {
+    "time": 1660483638000,
+    "uuid": "6a58ef6b-b80e-467e-965f-3054039a2ea1",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio": {
+    "time": 1660485772000,
+    "uuid": "a3d52ab0-69eb-4633-a61b-83ce922a0a20",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/mb.ts": {
+    "time": 1660483638000,
+    "uuid": "d14f9699-3135-48b0-84fb-d78a42c2ab33",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/base/mb_base_cp.ts": {
+    "time": 1660483638000,
+    "uuid": "b3a6b1ee-4e2b-4517-a3f0-ff39d34681ee",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/config/mb_config.ts": {
+    "time": 1660483638000,
+    "uuid": "07acc4ab-957c-418b-8fff-5c7f0adccc3b",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/base/mb_base.ts": {
+    "time": 1660483638000,
+    "uuid": "36c69550-d36f-4261-ac4c-90c76ec6d3ac",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/decorator/mb_decorator.ts": {
+    "time": 1660483638000,
+    "uuid": "2791e0ae-7e74-4cb9-9967-fde96fe78787",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/log/mb_log.ts": {
+    "time": 1660483638000,
+    "uuid": "9a38f7d0-2bb0-4ad0-a0a2-f37a8b6551b0",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio.ts": {
+    "time": 1660485772000,
+    "uuid": "5d9ddd02-7ef7-4f4b-a5bc-da71c9cb9e34",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio_volume_cp.ts": {
+    "time": 1660483638000,
+    "uuid": "8c3de529-79d5-49a7-bba4-e3e4d02d301b",
+    "missing": false
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/base.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/config.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/base.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/decorator.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/log.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/mb.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/base/mb_base_cp.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/config/mb_config.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/base/mb_base.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/decorator/mb_decorator.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/common/log/mb_log.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio.ts.meta": {
+    "time": 1660483638000
+  },
+  "/Users/raopinwu/workspace/ccs/fitSreen/FitScreen/extensions/magic-book/assets/src/system/audio/mb_audio_volume_cp.ts.meta": {
+    "time": 1660483638000
+  }
+}
